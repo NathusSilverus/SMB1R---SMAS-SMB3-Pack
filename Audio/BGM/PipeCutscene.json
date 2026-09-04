@@ -1,0 +1,27 @@
+{
+	"variations": {
+    "default": {
+        "source": "GrassLand.mp3"
+    },
+		"Desert": {"source": "DesertLand.mp3"
+    },
+		"Snow": {"source": "IceLand.mp3"
+    },
+		"Jungle": {"source": "GiantLand.mp3"
+    },
+		"Beach": {"source": "OceanLand.mp3"
+    },
+		"Space": {"source": "KingChamber.mp3"
+    },
+		"Garden": {"source": "GameSelect.mp3"
+    },
+		"Mountain": {"source": "GiantLand.mp3"
+    },
+		"Autumn": {"source": "SkyLand.mp3"
+    },
+		"Volcano": {"source": "DarkLand.mp3"
+    },
+		"Pipeland": {"source": "PipeLand.mp3"
+               }
+	}
+}

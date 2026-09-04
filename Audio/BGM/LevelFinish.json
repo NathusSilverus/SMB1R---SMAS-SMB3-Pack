@@ -1,0 +1,9 @@
+{
+	"variations": {"SMB1": {
+            "source": "LevelComplete.mp3"
+        },
+        "SMBANN": {
+            "source": "LevelComplete2.mp3"
+        }
+    }
+}

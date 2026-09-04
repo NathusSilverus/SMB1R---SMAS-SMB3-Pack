@@ -1,0 +1,16 @@
+{
+    "variations": {
+        "SMB1": {
+            "source": "TitleBGM.bgm"
+        },
+        "SMBLL": {
+            "source": "TitleSMBLL.bgm"
+        },
+        "SMBS": {
+            "source": "TitleSMA4.mp3"
+        },
+        "SMBANN": {
+            "source": "TitleANN.bgm"
+        }
+    }
+}

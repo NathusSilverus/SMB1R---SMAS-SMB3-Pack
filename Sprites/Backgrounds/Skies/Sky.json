@@ -1,0 +1,68 @@
+{
+	"properties": {
+		"sky_scroll_speed": 0
+	},
+	"variations": {
+		 "Day": {
+			"default": 			{
+				"SMB1": {"source": "DaySky.png"},
+				"SMBLL": {"source": "GiantLandSky.png"}
+			},
+			"Desert":   {"source": "DesertSky.png"
+			},
+			"Beach":
+			{
+				"SMB1": {"source": "BeachSky.png"},
+				"SMBLL": {"source": "BeachSkyLL.png"}
+			},
+			"Autumn": {
+				"SMB1": {"source": "AutumnSky.png"},
+				"SMBLL": {"source": "AutumnSkyLL.png"}
+			},
+			"Volcano": {
+				"SMB1": {"source": "VolcanoSky.png"},
+				"SMBLL": {"source": "VolcanoSkyLL.png"}
+			},
+			"Underground": {
+				"SMB1": {"source": "null"},
+				"SMBLL": {"source": "UndergroundSky.png"}
+			},
+			"Castle":   {"source": "CastleSky.png"
+			},
+			"Snow": {"source": "SnowSky.png"
+			},
+			"Underwater": {"source": "UnderwaterSky.png"
+			},
+			"GhostHouse": {"link": "Underground"},
+			"Space": {
+				"source": "SpaceStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			}
+		},
+		"Night": {
+			"default": {
+				"source": "NightStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Space": {
+				"source": "SpaceStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
+					"speed": 5.0,
+					"loop": true
+				}}
+			}
+		}
+        }
+}

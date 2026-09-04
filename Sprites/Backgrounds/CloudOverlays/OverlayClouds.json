@@ -1,0 +1,7 @@
+{
+	"variations": {
+		"SMB1": {"source": "Nothing.png"},
+		"SMBLL": {"source": "Nothing.png"},
+		"SMBANN": {"link": "SMBLL"}
+	}
+}

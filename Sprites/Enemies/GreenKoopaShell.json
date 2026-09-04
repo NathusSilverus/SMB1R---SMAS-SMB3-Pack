@@ -1,0 +1,96 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					64.0,
+					0.0,
+					18.0,
+					17.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "KoopaTroopaShell.png",
+			"rect": [
+				0.0,
+				0.0,
+				82.0,
+				49.0
+			]
+		},
+        "Underground": {
+            "link": "default"
+        },
+        "GhostHouse": {
+            "link": "default"
+        },
+        "Castle": {
+            "link": "default"
+        },
+        "Snow": {
+            "link": "default"
+        },
+        "Space": {
+            "link": "default"
+        },
+        "Volcano": {
+            "link": "default"
+        },
+        "Bonus": {
+            "link": "default"
+        }
+    }
+}

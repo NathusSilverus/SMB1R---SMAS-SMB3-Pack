@@ -1,0 +1,68 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+		     "config:Beetle sprites": {
+				"Original": {"source": "BuzzyBeetleShell.png",
+				"rect": [0, 0, 64, 16]},
+				"SMM2": {"source": "BuzzyBeetleShell.png",
+				"rect": [0, 16, 64, 16]}
+			}
+		}
+	}
+}

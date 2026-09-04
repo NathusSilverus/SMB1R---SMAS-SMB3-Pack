@@ -1,0 +1,92 @@
+{
+	"animations": {
+		"Fall": {
+			"frames": [
+				[
+					64.0,
+					48.0,
+					32.0,
+					48.0
+				],
+				[
+					96.0,
+					48.0,
+					32.0,
+					48.0
+				]
+			],
+			"speed": 12.0,
+			"loop": true
+		},
+		"FireBreathe": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					32.0,
+					48.0
+				]
+			],
+			"speed": 5.0,
+			"loop": false
+		},
+		"FireCharge": {
+			"frames": [
+				[
+				        0.0,
+					48.0,
+					32.0,
+					48.0
+				],
+				[
+					32.0,
+					48.0,
+					32.0,
+					48.0
+				]
+			],
+			"speed": 5.0,
+			"loop": false
+		},
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					32.0,
+					48.0
+				],
+				[
+					32.0,
+					0.0,
+					32.0,
+					48.0
+				],
+				[
+					0.0,
+					0.0,
+					32.0,
+					48.0
+				],
+				[
+					64.0,
+					0.0,
+					32.0,
+					48.0
+				]
+			],
+			"speed": 6.0,
+			"loop": true
+		}
+	},
+		"variations": {
+		"default": {
+		     "config:Bowser sprites": {
+				"SNES": {"source": "BowsersBro.png",
+				"rect": [0, 96, 128, 96]},
+				"GBA": {"source": "BowsersBro.png",
+				"rect": [0, 0, 128, 96]}
+			}
+		}
+	}
+}

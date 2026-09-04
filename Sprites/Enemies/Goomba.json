@@ -1,0 +1,31 @@
+{
+	"animations": {
+		"Walk": {
+			"frames": [
+				[0, 0, 16, 16],
+				[16, 0, 16, 16]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Stomped": {
+			"frames": [[32, 0, 16, 16]],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Goomba.png",
+				"rect": [0, 0, 48, 16]
+			},
+			"SMBANN": {
+				"source": "DiscoGoomba.png",
+				"rect": [0, 0, 48, 16]
+	
+			}
+		}
+	}
+}
+

@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"config:Peach sprite": {
+		"Original": {"source": "Peach.png", "rect": [18, 0, 15, 32]},
+		"GBA": {"source": "Peach.png", "rect": [0, 0, 18, 32]}
+	               }
+		}
+	}

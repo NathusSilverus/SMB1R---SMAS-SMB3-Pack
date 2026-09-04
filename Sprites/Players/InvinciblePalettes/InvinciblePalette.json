@@ -1,0 +1,18 @@
+{
+	"variations": {
+		"default": {"source": "InvinciblePalette.png"},
+		"Underground": {"link": "default"},
+		"GhostHouse": {"link": "default"},
+		"Castle": {"link": "default"},
+		"Underwater": {"link": "default"},
+		"CastleWater": {"link": "default"},
+		"Desert": {"link": "default"},
+		"Jungle": {"link": "default"},
+		"Snow": {"link": "default"},
+		"Volcano": {"link": "default"},
+		"Autumn": {"link": "default"},
+		"Beach": {"link": "default"},
+		"Mountain": {"link": "default"},
+		"Space": {"link": "default"},
+	}
+}

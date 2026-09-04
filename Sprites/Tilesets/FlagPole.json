@@ -1,0 +1,6 @@
+{
+	"variations": {
+		"default": {"source": "FlagPole.png", "rect": [0, 0, 16, 176]},
+		"Snow": {"source": "FlagPole.png", "rect": [16, 0, 16, 176]}
+	}
+}

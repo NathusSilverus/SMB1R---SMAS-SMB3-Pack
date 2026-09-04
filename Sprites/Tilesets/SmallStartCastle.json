@@ -1,0 +1,17 @@
+{
+	"properties":
+	{
+		"use_sprite": true
+	},
+	"variations": {
+		"default":
+		{
+			"source": "Fortress.png",
+			"rect": [0, 0, 160, 80]
+		},
+		"Snow": {"source": "Fortress.png",
+			"rect": [0, 80, 160, 80]
+		},
+		"Desert": { "link": "default"}
+        }
+}

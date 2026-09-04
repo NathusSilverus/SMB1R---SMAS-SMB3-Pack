@@ -1,0 +1,47 @@
+{
+	"animations": {
+		"default": {
+                        "source": "BrickBlock.png",
+			"frames": 
+				[
+					[0, 0, 16, 16],
+					[16, 0, 16, 16],
+					[32, 0, 16, 16],
+					[48, 0, 16, 16]
+				],
+			"speed": 9.0,
+			"loop": true
+		}
+	},
+	"variations":
+	{
+		"default": {"source": "BrickBlock.png", "rect": [0, 0, 64, 16]},
+        "Underground": {
+            "link": "default"
+        },
+        "Desert": {
+            "link": "default"
+        },
+        "GhostHouse": {
+            "link": "default"
+        },
+        "Castle": {
+            "link": "default"
+        },
+        "Snow": {
+            "link": "default"
+        },
+        "Space": {
+            "link": "default"
+        },
+        "Mountain": {
+            "link": "default"
+        },
+        "Volcano": {
+            "link": "default"
+        },
+        "Bonus": {
+            "link": "default"
+        }
+    }
+}

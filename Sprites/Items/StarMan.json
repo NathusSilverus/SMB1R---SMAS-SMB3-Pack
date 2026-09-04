@@ -1,0 +1,59 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 25.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "SuperStar.png",
+				"rect": [
+					0.0,
+					0.0,
+					48.0,
+					16.0
+				]
+			},
+			"SMBLL": {
+				"source": "SuperStar.png",
+				"rect": [
+					0.0,
+					16.0,
+					48.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "DiscoStar.png",
+				"rect": [
+					0.0,
+					0.0,
+					64.0,
+					16.0
+				]
+			}
+		}
+	}
+}

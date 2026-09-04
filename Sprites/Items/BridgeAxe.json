@@ -1,0 +1,43 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 20, 20]
+			],
+			"speed": 10.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "BridgeAxe.png",
+			"rect": [
+				0.0,
+				0.0,
+				20.0,
+				20.0
+			]
+		},
+		"Underground": {
+			"link": "default"
+		},
+		"GhostHouse": {
+			"link": "default"
+		},
+		"Castle": {
+			"link": "default"
+		},
+		"Snow": {
+			"link": "default"
+		},
+		"Space": {
+			"link": "default"
+		},
+		"Volcano": {
+			"link": "default"
+		},
+		"Bonus": {
+			"link": "default"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"options": {
+		"Toggle gloves": "Off",
+		"Pick your poison": "Poison",
+		"Peach sprite": "Original",
+		"Bowser sprites": "SNES",
+		"Fire Trap sprites": "Original",
+		"Beetle sprites": "Original",
+		"Spiny sprites": "Original"
+	},
+	"value_keys": {
+		"Toggle gloves": [
+			"Off",
+			"On"
+		],
+		"Pick your poison": [
+			"Poison",
+			"Rotten"
+		],
+		"Peach sprite": [
+			"Original",
+			"GBA"
+		],
+		"Bowser sprites": [
+			"SNES",
+			"GBA"
+		],
+		"Fire Trap sprites": [
+			"Original",
+			"SMM2"
+		],
+		"Beetle sprites": [
+			"Original",
+			"SMM2"
+		],
+		"Spiny sprites": [
+			"Original",
+			"SMM2"
+		]
+	}
+}
